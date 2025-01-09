@@ -20,10 +20,10 @@
 		},
 		{
 			"id": 3,
-			"title": "Camiseta DoWhile 2022",
-			"slug": "camiseta-dowhile-2022",
+			"title": "Camiseta DoWhile",
+			"slug": "camiseta-dowhile",
 			"price": 69,
-			"image": "/camiseta-dowhile-2022.png",
+			"image": "/camiseta-dowhile.png",
 			"description": "Camiseta fabricada com 100% de algodão.",
 			"featured": true
 		},
